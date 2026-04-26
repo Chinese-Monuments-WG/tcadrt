@@ -112,20 +112,26 @@
                   有待進一步研究。</p>
             </note>
             <listBibl xml:id="biblk000289-1">
-               <bibl xml:id="biblk000289-1">
-                  <ptr target="https://architecturasinica.org/bibl/JL6SUKL3"/>
-               </bibl>
-               <bibl xml:id="biblk000289-2">
+               <bibl>
                   <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
                </bibl>
-               <bibl xml:id="biblk000289-3">
+            </listBibl>
+            <listBibl xml:id="biblk000289-2">
+               <bibl>
                   <ptr target="https://architecturasinica.org/bibl/2LNA6K9X"/>
                </bibl>
-               <bibl xml:id="biblk000289-4">
+            </listBibl>
+            <listBibl xml:id="biblk000289-3">
+               <bibl>
                   <ptr target="https://architecturasinica.org/bibl/NVPQIK6D"/>
                </bibl>
-               <bibl xml:id="biblk000289-5">
+               <bibl>
                   <ptr target="https://architecturasinica.org/bibl/WT5PUZBP"/>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="biblk000289-4">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/JL6SUKL3"/>
                </bibl>
             </listBibl>
             <listRelation>
