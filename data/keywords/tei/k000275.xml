@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title level="a" xml:lang="zh-latn-pinyin">
-               <foreign xml:lang="zh-Hant">屋脊</foreign>wuji</title>
+               <foreign xml:lang="zh-Hant">屋脊</foreign> wuji</title>
             <title level="m">Architectura Sinica</title>
             <principal xml:id="TGM">Tracy Miller</principal>
             <editor role="general" ref="#TGM">Tracy Miller</editor>
@@ -53,7 +53,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2023-06-10-11:20</date>
+            <date>2023-06-10</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -70,7 +70,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change n="1.0" who="FRC" when="2025-05-22-13:20">CREATED: record</change>
+         <change n="1.0" who="FRC" when="2025-05-22">CREATED: record</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -105,6 +105,9 @@
                   的屋脊可能使用多種不同的稱呼， “垂脊”、“角脊”、“戧脊”、“岔脊”等不同屋頂類型中的傾斜屋脊的指代關係尤為混亂。（齐 1999,34、270；王 1996,199、205、236;刘 1993,166;郭 2015,112）</p>
             </note>
             <listBibl xml:id="biblk000275-1">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
+               </bibl>
                <bibl>
                   <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
                </bibl>
