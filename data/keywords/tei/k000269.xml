@@ -49,7 +49,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2023-06-10-11:20</date>
+            <date>2023-06-10</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -66,8 +66,8 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change n="1.0" who="#ZYY" when="2023-06-10-11:20">CREATED: record</change>
-         <change n="1.0" who="#FRC" when="2025-05-20-11:00">Added data</change>
+         <change n="1.0" who="#ZYY" when="2023-06-10">CREATED: record</change>
+         <change n="1.0" who="#FRC" when="2025-05-20">Added data</change>
       </revisionDesc>
    </teiHeader>
    <text>
