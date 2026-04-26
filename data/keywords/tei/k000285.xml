@@ -93,6 +93,36 @@
                <p xml:lang="zh-Hant">安裝在柱間腰串以上的不可啟閉窗戶形式，因其窗櫺截面為三角形（方形一破為二）得名。依照《營造法式》的規定（李 2009，6.4b-5a），破子櫺窗高四尺至八尺，約1.25公尺至2.50公尺之間。以窗櫺間空隙以
                   一吋為定法確定窗櫺條數，窗櫺的寬度和高度則隨窗高而變化。</p>
             </note>
+            <listBibl xml:id="biblk000285-1">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="biblk000285-2">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/IBU3ZPGZ"/>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="biblk000285-3">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/R6JI67GM"/>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="biblk000285-4">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/WT5PUZBP"/>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="biblk000285-5">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/IKUSHVKZ"/>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="biblk000285-6">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/LYSELFDD"/>
+               </bibl>
+            </listBibl>
             <listRelation>
                <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000285" passive="openings (doors and windows)"/>
             </listRelation>
