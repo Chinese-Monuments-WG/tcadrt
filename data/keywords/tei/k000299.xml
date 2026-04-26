@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title level="a" xml:lang="zh-latn-pinyin">
-               <foreign xml:lang="zh-Hant">永定柱</foreign>yongdingzhu</title>
+               <foreign xml:lang="zh-Hant">永定柱</foreign> yongdingzhu</title>
             <title level="m">Architectura Sinica</title>
             <principal xml:id="TGM">Tracy Miller</principal>
             <editor role="general" ref="#TGM">Tracy Miller</editor>
@@ -69,7 +69,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change n="1.0" who="FRC" when="2025-05-26-17:00">CREATED: record</change>
+         <change n="1.0" who="FRC" when="2025-05-26">CREATED: record</change>
       </revisionDesc>
    </teiHeader>
    <text>
