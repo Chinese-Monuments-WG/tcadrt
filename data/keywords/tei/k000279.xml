@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title level="a" xml:lang="zh-latn-pinyin">
-               <foreign xml:lang="zh-Hant">角脊</foreign>jiaoji</title>
+               <foreign xml:lang="zh-Hant">角脊</foreign> jiaoji</title>
             <title level="m">Architectura Sinica</title>
             <principal xml:id="TGM">Tracy Miller</principal>
             <editor role="general" ref="#TGM">Tracy Miller</editor>
@@ -54,7 +54,7 @@
                   <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                </licence>
             </availability>
-            <date>2025-05-22-13:20</date>
+            <date>2025-05-22</date>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -71,7 +71,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change n="1.0" who="FRC" when="2025-05-22-13:20">CREATED: record</change>
+         <change n="1.0" who="FRC" when="2025-05-22">CREATED: record</change>
       </revisionDesc>
    </teiHeader>
    <text>
