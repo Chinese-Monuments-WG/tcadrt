@@ -151,7 +151,8 @@
                <ptr target="https://architecturasinica.org/bibl/848SJSVS"/>
             </bibl>
             <bibl xml:id="biblk000283-13">
-               <ptr target="https://architecturasinica.org/bibl/W6PTQB6E"/>               
+               <ptr target="https://architecturasinica.org/bibl/W6PTQB6E"/>     
+               <citedRange unit="pp">31-36</citedRange>
             </bibl>
             <listBibl xml:id="biblk000283-14">
               <bibl>
