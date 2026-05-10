@@ -84,15 +84,15 @@
             <term xml:id="term-k000277-6" xml:lang="en" source="#biblk000277-1" type="literal_translation">gable ridge (lit.)</term>
             <idno type="URI">https://architecturasinica.org/keyword/k000277</idno>
             <note type="Note"> 
-               <p xml:lan="en" source="#biblk000277-2">Boji refers to a horizontal ridge where a sloped roof intersects with the vertical part of the building (Liang 1981, 84). This includes the horizontal ridge where the lower eaves 
+               <p xml:lang="en" source="#biblk000277-2">Boji refers to a horizontal ridge where a sloped roof intersects with the vertical part of the building (Liang 1981, 84). This includes the horizontal ridge where the lower eaves 
                   roof under the <term ref="/keyword/k000211">pingzuo 平坐</term> meets the vertical face of the building at its upper end (Li 2009, 9.6a, written as “搏脊”); the horizontal ridge where the sloped roofs on gable sides meet the building in a 
                   hip-and-gable <term ref="/keyword/k000143">(xieshan 歇山)</term> roof (Ru et al. 2000, 4-143); and the ridge where the lower eave of a multi-tiered roof meets the vertical part  (Ru et al. 2000, 4-143; Liang and Liu 1935, 4). It also refers to the roof ridges at the highest part of 
                   a building with a four sloped roof with a flat center (luding 盝頂 (Guo 2002, 56)). The common characteristic of boji ridges is that only one side is visible from the exterior. 
                   In Qing dynasty texts, boji mainly refers to the horizontal ridge on gable sides in a hip-gable (xieshan) roof, which has become the mainstream interpretation of boji among modern 
                   scholars.</p>
-              <!-- <p xml:lang="zh-Hant" source="#biblk000277-3">“博脊”指中國古代建築屋脊的一種，通常指一面斜坡屋頂與建築物垂直部分相交處的水平屋脊（梁 1981, 84），如平座下簷屋面上端與建築垂直面相交處（李 2009,9.6a，寫作“搏脊”）；歇山頂兩端坡面與山面交接處之
+               <p xml:lang="zh-Hant" source="#biblk000277-3">“博脊”指中國古代建築屋脊的一種，通常指一面斜坡屋頂與建築物垂直部分相交處的水平屋脊（梁 1981, 84），如平座下簷屋面上端與建築垂直面相交處（李 2009,9.6a，寫作“搏脊”）；歇山頂兩端坡面與山面交接處之
                   水平屋脊（如《帝阙城垣规制》（茹敦和 等 2000, 4-143）；以及重簷下簷或多層建築下層屋簷與垂直面相交處的脊（如《帝阙城垣规制》（茹敦和 等 2000, 4-145）；梁和刘 1935, 4））等。也用來指盝頂最高處的屋脊（如《帝阙城垣规制》
-                  （茹敦和 等 2000, 4-147））。這些屋脊的共同特徵是只有朝外的一面可見。清代文獻中的“博脊”主要指歇山頂兩端坡面與山面交接處之水平屋脊，這也成為現代學者的主流觀點。</p>   -->
+                  （茹敦和 等 2000, 4-147））。這些屋脊的共同特徵是只有朝外的一面可見。清代文獻中的“博脊”主要指歇山頂兩端坡面與山面交接處之水平屋脊，這也成為現代學者的主流觀點。</p>  
             </note>
                <bibl xml:id="biblk000277-1">
                   <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
