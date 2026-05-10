@@ -84,7 +84,6 @@
             <term xml:id="term-k000271-6" xml:lang="en" source="#biblk000271-1" >step</term>
             <idno type="URI">https://architecturasinica.org/keyword/k000271</idno>
             <note type="Note">
-               <p>under construction</p>
                <p xml:lang="en" source="#biblk000271-2">Cai 踩 was a term used during the <term ref="/keyword/k000070">Qing</term> dynasty to describe the scale and dimensions of <term ref="/keyword/k000019">dougong</term> (bracket sets), commonly used in the form of “N-cai dougong.” The 
                   character cai, also written as 跴, can also appear as 彩, 採, or 采 (Kan Duo, 1931). The Kangxi Dictionary defines 踩, as “to jump.” As an architectural term, it first appears 
                   in the Qing dynasty Yangshi Lei architectural drawings (Zhou Junliang, Zhang Fengwu, Wang Qiheng, 2022), and later in texts such as Yingzao suanli, Yingzao fashi taoben, and 
@@ -101,6 +100,7 @@
                <p xml:lang="zh-Hant" source="#biblk000271-7">2. 與斗栱出跳數相關聯。這一含義最早見於《營造法式陶本》晚清工匠所做插圖（李诫，1925：卷三十附五），梁思成也採用這個觀點，將踩數的計算簡化為昂翹數或拽架數的兩倍加一。
                   （《清式營造則例》梁 1934，22,24）後來學者普遍沿用這個釋義。</p>
             </note>
+            <!-- After locating remaining souces, listbibl sections with only one section should be changed to only bibl entries to fix the page -->
             <listBibl xml:id="biblk000271-1">
                <bibl>
                   <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
