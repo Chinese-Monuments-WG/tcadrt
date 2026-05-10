@@ -100,7 +100,8 @@
                   <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
                   <citedRange unit="pp">20</citedRange>
                </bibl>
-             <listBibl xml:id="bibl0002762-2">
+            </listBibl>
+            <listBibl xml:id="bibl0002762-2">
                   <bibl>
                      <ptr target="https://architecturasinica.org/bibl/GJDWIU6M"/>
                      <citedRange unit="pp">84</citedRange>
