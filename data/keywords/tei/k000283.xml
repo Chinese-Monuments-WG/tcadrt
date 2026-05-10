@@ -105,16 +105,15 @@
                <p xml:lang="zh-Hant" source="#biblk000283-8">《營造法式》將版門分為雙扇版門和獨扇版門，雙扇版門高寬為方形或略窄，門高約在2.19米到7.51米之間。
                   《梓人遺制》補充了獨扇版門的高度下限，在1.57米至2.19米之間。《梓人遺制》相較於《營造法式》，增加了桯，立楣，腦楣構件以及額寬。《營造法式》中版門的做法適用於兩柱之間，《梓人遺製》則更適用於使用厚墻的場合。有學者
                   （俞莉娜，2023）認為在法式成書之前，兩種版門皆已經存在於地面建築。</p>
-               <p xml:lang="zh-Hant" source="#biblk000283-13">繪畫中的版門主要出現在建築院落的大門和城門，也有存在於建築單體大門的情況。在墓葬等的探討中，學者普遍會把無飾平整門扇配有地栿，立頰，額和門簪的形式定義為版門（）。目前，該形式可以追溯到漢代畫像石。
+               <p xml:lang="zh-Hant" source="#biblk000283-13">繪畫中的版門主要出現在建築院落的大門和城門，也有存在於建築單體大門的情況。在墓葬等的探討中，學者普遍會把無飾平整門扇配有地栿，立頰，額和門簪的形式定義為版門。目前，該形式可以追溯到漢代畫像石。
                   （屠 1990, 31-36.）</p>
-               <p xml:lang="zh-Hant" source="#biblk000283-4">梁思成，竹島卓一、潘谷西都對《營造法式》的版門做過復原研究（梁 2001, 166; 潘和何 2005, 111；竹岛 1971, 175）。
+               <p xml:lang="zh-Hant" source="#biblk000283-14">梁思成，竹島卓一、潘谷西都對《營造法式》的版門做過復原研究（梁 2001, 166; 潘和何 2005, 111；竹岛 1971, 175）。
                   梁思成與潘穀西繪圖與《營造法式》基本符合。目前存在模糊性的，一是副肘版使用範圍，
                   竹島卓一和《梓人遺制》傾向于門高一丈二尺以上方可使用，梁思成與潘穀西的復原在一丈高版門中已使用副肘版。由於版門門扇以木板拼合而成，當尺寸較大時，門扇自重變大而易於變形，故需增加副肘板以維持門扇形狀。二是搕鎖柱尺寸位置，
                   梁和潘的復原中搕鎖柱立於立頰後，寬度大於肘版及閘關徑之和。</p>    
             </note>
             <bibl xml:id="biblk000283-1">
                <ptr target="https://architecturasinica.org/bibl/67A76PN3"/>
-               <citedRange unit="pp"></citedRange>
             </bibl>
             <bibl xml:id="biblk000283-2">
                <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
@@ -126,7 +125,6 @@
             <bibl xml:id="biblk000283-4">
                <ptr target="https://architecturasinica.org/bibl/IBU3ZPGZ"/>
                <citedRange unit="pp">270-271</citedRange>
-               <citedRange unit="pp">166</citedRange>
             </bibl>
             <bibl xml:id="biblk000283-5">
                <ptr target="https://architecturasinica.org/bibl/R6JI67GM"/>
@@ -155,14 +153,20 @@
             <bibl xml:id="biblk000283-13">
                <ptr target="https://architecturasinica.org/bibl/W6PTQB6E"/>               
             </bibl>
-            <bibl xml:id="biblk000283-14">
-               <ptr target="https://architecturasinica.org/bibl/WT5PUZBP"/>
-               <citedRange unit="pp">111</citedRange>
-            </bibl>
-            <bibl xml:id="biblk000283-15">
-               <ptr target="https://architecturasinica.org/bibl/WMCSME8Q"/>
-               <citedRange unit="pp">175</citedRange>
-            </bibl>
+            <listBibl xml:id="biblk000283-14">
+              <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/WT5PUZBP"/>
+                  <citedRange unit="pp">111</citedRange>
+              </bibl>
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/WMCSME8Q"/>
+                   <citedRange unit="pp">175</citedRange>
+               </bibl>
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/IBU3ZPGZ"/>
+                  <citedRange unit="pp">166</citedRange>
+               </bibl>
+            </listBibl>
                <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000283" passive="openings (doors and windows)"/>
          </entryFree>
       </body>
