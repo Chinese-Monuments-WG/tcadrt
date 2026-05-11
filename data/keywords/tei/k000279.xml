@@ -86,18 +86,50 @@
             <idno type="URI">https://architecturasinica.org/keyword/k000279</idno>
             <note type="Note">
                <p>under construction</p>
-               <p xml:lan="en">Literally “corner spine,” jiaoji 角脊 refers to a type of roof ridge. From the <term ref="/keyword/k000074">Song</term> to <term ref="/keyword/k000070">Qing</term> dynasties (960-1911), jiaoji generally referred to the diagonal ridges 
+               <p xml:lang="en" source="#biblk000279-2">Literally “corner spine,” jiaoji 角脊 refers to a type of roof ridge. From the <term ref="/keyword/k000074">Song</term> to <term ref="/keyword/k000070">Qing</term> dynasties (960-1911), jiaoji generally referred to the diagonal ridges 
                   along the roof corners, used in hip-and-gable (<term ref="/keyword/k000143">xieshan 歇山</term>), hipped (<term ref="/keyword/k000125">wudian 廡殿</term>), and pointed (<term ref="/keyword/k000188">cuanjian 攢尖</term>) roofs, as well as the lower roofs of multi-story buildings. Modern 
                   scholars use jiaoji primarily to refer to the corner ridges of the lower roof in multi-story buildings (Liang and Liu 1936, 41; Wang 1996, 205). Some scholars argue that jiaoji 
                   might refer to the part in front of the tile animals (chuishou 垂獸) in a descending roof ridge (<term ref="/keyword/k000278">chuiji 垂脊</term>), which in historical texts is called shouqian 獸前 (lit. in front of 
                   the animal(s)). The term jiaoji was first documented in Yingzao fashi(Lü and Liu 1992, 111).</p>
-               <p xml:lang="zh-Hant">“角脊”指代中國古代建築中屋脊的一種。角脊最早出現於《營造法式》（李 2009,9.6a），自宋至清，角脊泛指屋面轉角之脊，範圍包括歇山頂、廡殿頂、攢尖頂、下簷轉角。現代學者主要將角脊專用於指代重簷下
-                  簷屋面轉角之脊。（梁和刘 1936,4；王 1996,205）也有部分學者認為“角脊”可用以指代硬山、懸山及廡殿的垂脊中垂獸之前的部分，即“獸前”。 （吕和刘 1992,111）</p>
+               <p xml:lang="zh-Hant" source="#biblk000279-3">“角脊”指代中國古代建築中屋脊的一種。角脊最早出現於《營造法式》（李 2009, 9.6a），自宋至清，角脊泛指屋面轉角之脊，範圍包括歇山頂、廡殿頂、攢尖頂、下簷轉角。現代學者主要將角脊專用於指代重簷下
+                  簷屋面轉角之脊。（梁和刘 1936, 4；王 1996, 205）也有部分學者認為“角脊”可用以指代硬山、懸山及廡殿的垂脊中垂獸之前的部分，即“獸前”。 （吕和刘 1992,111）</p>
             </note>
             <listBibl xml:id="biblk000279-1">
                <bibl>
                   <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
                   <citedRange unit="pp">47</citedRange>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="biblk000279-2">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/SQBG32J2"/>
+                  <citedRange unit="pp">41</citedRange>
+               </bibl>
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/XZ22VAGV"/>
+                  <citedRange unit="pp">205</citedRange>
+               </bibl>
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/MIDR9AUD"/>
+                  <citedRange unit="pp">111</citedRange>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="biblk000279-3">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
+                  <citedRange unit="pp">9.6a</citedRange>
+               </bibl>
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/SQBG32J2"/>
+                  <citedRange unit="pp">4</citedRange>
+               </bibl>
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/XZ22VAGV"/>
+                  <citedRange unit="pp">205</citedRange>
+               </bibl>
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/MIDR9AUD"/>
+                  <citedRange unit="pp">111</citedRange>
                </bibl>
             </listBibl>
             <listRelation>
