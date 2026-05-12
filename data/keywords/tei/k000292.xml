@@ -116,7 +116,10 @@
                <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
                <citedRange unit="pp">5.7a</citedRange>
             </bibl>
-
+            <bibl xml:id="biblk000291-3">
+               <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
+               <citedRange unit="pp">5.7a</citedRange>
+            </bibl>
             <listRelation>
                <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000292" passive="building frame"/>
             </listRelation>
