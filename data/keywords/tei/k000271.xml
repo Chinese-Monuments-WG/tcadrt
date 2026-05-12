@@ -120,6 +120,10 @@
                    <ptr target="https://architecturasinica.org/bibl/R6JI67GM"/>
                    <citedRange unit="pp">juan 30, appendix 5</citedRange>
                 </bibl>
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/X4C8ZZCP"/>
+                  <citedRange unit="pp">22, 24</citedRange>
+               </bibl>
             </listBibl>
             <listBibl xml:id="biblk000271-5">
                   <bibl>
@@ -136,6 +140,10 @@
                      <ptr target="https://architecturasinica.org/bibl/R6JI67GM"/>
                      <citedRange unit="pp">卷三十附五</citedRange>
                   </bibl>
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/X4C8ZZCP"/>
+                  <citedRange unit="pp">22, 24</citedRange>
+               </bibl>
              </listBibl> 
             <listRelation>
                <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000271" passive="bracketing"/>
