@@ -90,7 +90,7 @@
                   with its height positioned at the center of the shuzhu. The sectional dimension of shunjichuan is typically as high and wide as a standard dancai 單材（15 fen 分 high and 10 fen wide), 
                   or may be 3-4 fen larger. In the minor carpentry system (xiaomuzuo 小木作), shunjichuan is referred to as jichuan 脊串. The earliest existing example of the use of shunjichuan is in the 
                   <term ref="/place/000158">Amitabha Hall (Mituodian 彌陀殿)</term> at Dayunyuan in Pingshun, Shanxi, dating from 940 during the <term ref="/keyword/k000026">Five Dynasties</term> period.</p>
-               <p xml:lang="zh-Hant" source="#biblk000290-3">順脊串是串的一種，作為建築構件的名稱最早出現在宋《營造法式》（李誡 2009，5.7a）。根據《營造法式》，順脊串是位於脊槫下穿插於蜀柱間的聯繫構件，施用高度位於蜀柱中心，斷面廣厚如材（15分x10分），
+               <p xml:lang="zh-Hant" source="#biblk000290-2">順脊串是串的一種，作為建築構件的名稱最早出現在宋《營造法式》（李誡 2009，5.7a）。根據《營造法式》，順脊串是位於脊槫下穿插於蜀柱間的聯繫構件，施用高度位於蜀柱中心，斷面廣厚如材（15分x10分），
                   或加3-4分，在小木作中順脊串被簡稱為“脊串”。現存最早使用順脊串的建築實例是五代的平順大雲院彌陀殿（940年）。</p>
             </note>
             <bibl xml:id="biblk000290-1">
@@ -100,10 +100,6 @@
             <bibl xml:id="biblk000290-2">
                <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
                <citedRange unit="pp">5.7a</citedRange>
-            </bibl>
-            <bibl xml:id="biblk000290-3">
-               <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
-               <citedRange unit="pp">5.7</citedRange>
             </bibl>
             <listRelation>
                <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000290" passive="roof components"/>
