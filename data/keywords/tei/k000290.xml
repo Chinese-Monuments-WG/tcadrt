@@ -93,22 +93,16 @@
                <p xml:lang="zh-Hant" source="#biblk000290-3">順脊串是串的一種，作為建築構件的名稱最早出現在宋《營造法式》（李誡 2009，5.7a）。根據《營造法式》，順脊串是位於脊槫下穿插於蜀柱間的聯繫構件，施用高度位於蜀柱中心，斷面廣厚如材（15分x10分），
                   或加3-4分，在小木作中順脊串被簡稱為“脊串”。現存最早使用順脊串的建築實例是五代的平順大雲院彌陀殿（940年）。</p>
             </note>
-            <listBibl xml:id="biblk000290-1">
-            <bibl>
+            <bibl xml:id="biblk000290-1">
                <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
                <citedRange unit="pp">74</citedRange>
             </bibl>
-            </listBibl>
-            <listBibl xml:id="biblk000290-2">
-            <bibl>
+            <bibl xml:id="biblk000290-2">
                <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
             </bibl>
-            </listBibl>
-            <listBibl xml:id="biblk000290-3">
-            <bibl>
+            <bibl xml:id="biblk000290-3">
                <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
             </bibl>
-            </listBibl>
             <listRelation>
                <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000290" passive="roof components"/>
             </listRelation>
