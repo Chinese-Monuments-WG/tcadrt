@@ -81,10 +81,10 @@
             <term xml:id="term-k000283-3" xml:lang="zh-Hans">版门</term>
             <term xml:id="term-k000283-4" xml:lang="zh-latn-pinyin">bǎnmén</term>
             <term xml:id="term-k000283-5" xml:lang="zh-latn-wadegile">pan-men</term>
-            <term xml:id="term-k000283-6" xml:lang="en" type="literal_translation">plank door (lit.)</term>
+            <term xml:id="term-k000283-6" xml:lang="en" source="#biblk000283-1" type="literal_translation">plank door (lit.)</term>
             <idno type="URI">https://architecturasinica.org/keyword/k000283</idno>
             <note type="Note"> 
-               <p xml:lan="en">Literally “plank door” (Kroll, digital edition), banmen 版門 is a traditional form of door used in Chinese gates or buildings. The character 版 can be written as 板. 
+               <p xml:lang="en">Literally “plank door” (Kroll, digital edition), banmen 版門 is a traditional form of door used in Chinese gates or buildings. The character 版 can be written as 板. 
                   The door consists of several components: zhouban 肘版 (elbow-hinge stile with pivots), fuzhouban 副肘版 (lock stile), and shenkouban 身口版 (body planks). The door leaves are mounted 
                   on a difu 地栿 (ground sill), beneath a men’e 門額 (header lintel), and between lijia 立頰 (jambs). They are secured by menzan 門簪 (door pegs) and jiqimu 雞棲木 (pivot-bearing bars). 
                   The size of each component is determined by specific proportions relative to the door height.</p>
@@ -112,7 +112,7 @@
                   梁和潘的復原中搕鎖柱立於立頰後，寬度大於肘版及閘關徑之和。劉妍對城門版門的復原將搕鎖柱立於門扇後（劉妍 2012，112），尺寸上更符合法式記載，不過如此則意味著搕鎖柱是隨門之開關安裝、拆卸的。</p>
                </note>
             <bibl xml:id="biblk000283-1">
-               <ptr target="https://architecturasinica.org/bibl/67A76PN3"/>
+               <ptr target="https://architecturasinica.org/bibl/8RRW96CV"/> 
             </bibl>
             <bibl xml:id="biblk000283-2">
                <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
@@ -165,6 +165,11 @@
                <bibl>
                   <ptr target="https://architecturasinica.org/bibl/IBU3ZPGZ"/>
                   <citedRange unit="pp">166</citedRange>
+               </bibl>
+            </listBibl>
+            <listBibl xml:id="biblk000283-15">
+               <bibl>
+                  <ptr target="https://architecturasinica.org/bibl/67A76PN3"/>
                </bibl>
             </listBibl>
                <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000283" passive="openings (doors and windows)"/>
