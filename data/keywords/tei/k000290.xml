@@ -102,8 +102,8 @@
                <citedRange unit="pp">5.7a</citedRange>
             </bibl>
             <bibl xml:id="biblk000290-3">
-               <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
-               <citedRange unit="pp">5.7a</citedRange>
+               <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
+               <citedRange unit="pp">5.7</citedRange>
             </bibl>
             <listRelation>
                <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000290" passive="roof components"/>
