@@ -98,10 +98,10 @@
                <citedRange unit="pp">74</citedRange>
             </bibl>
             <bibl xml:id="biblk000290-2">
-               <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46 "/>
+               <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
             </bibl>
             <bibl xml:id="biblk000290-3">
-               <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46 "/>
+               <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
             </bibl>
             <listRelation>
                <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000290" passive="roof components"/>
