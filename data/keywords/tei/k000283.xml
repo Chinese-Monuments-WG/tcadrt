@@ -88,8 +88,8 @@
                   The door consists of several components: zhouban 肘版 (elbow-hinge stile with pivots), fuzhouban 副肘版 (lock stile), and shenkouban 身口版 (body planks). The door leaves are mounted 
                   on a difu 地栿 (ground sill), beneath a men’e 門額 (header lintel), and between lijia 立頰 (jambs). They are secured by menzan 門簪 (door pegs) and jiqimu 雞棲木 (pivot-bearing bars). 
                   The size of each component is determined by specific proportions relative to the door height.</p>
-               <p xml:lang="en" source="#biblk000283-3">The construction of banmen is documented in detail in both the Yingzao fashi and Zirenyizhi treatises （Xue 1522, 3518.18a-20a）.</p> 
-               <p xml:lang="en" source="#biblk000283-8">The Yingzao fashi describes two types: 
+               <p xml:lang="en" source="#biblk000283-2">The construction of banmen is documented in detail in both the Yingzao fashi and Zirenyizhi treatises （Xue 1522, 3518.18a-20a）.</p> 
+               <p xml:lang="en" source="#biblk000283-3">The Yingzao fashi describes two types: 
                   single-leaf and double-leaf doors. Double-leaf doors are approximately square in proportion or slightly taller, ranging from 2.19 to 7.51 meters in height. The Zirenyizhi establishes 
                   a minimum height of 1.57 meters for single-leaf doors. Compared to the Yingzaofashi, the Zirenyizhi version of banmen incorporates additional elements: ting (rail), limei (vertical 
                   leaf-lintel), and naomei (header leaf-lintel), while also increasing the height of the men e (header lintel). The banmen construction method described in the Yingzaofashi is more 
@@ -100,13 +100,13 @@
                   evidenced in Han dynasty stone carvings.</p>
                <p xml:lang="zh-Hant">“版門”又寫作“板門”，是建築中門的形式之一。根據《營造法式》，版門由長條木板（又分肘版，身口版，副肘版）拼合而成門扇，下有地栿門砧，側有立頰，上有門額、門簪、雞棲木等構件，各構件尺寸根據門高按
                   照比例而定。</p>
-               <p xml:lang="zh-Hant" source="#biblk000283-3">版門的做法詳細出現在《營造法式》（1103）與《梓人遺制》（1261）中（薛 1522，3518.18a-20a）。</p>
-               <p xml:lang="zh-Hant" source="#biblk000283-8">《營造法式》將版門分為雙扇版門和獨扇版門，雙扇版門高寬為方形或略窄，門高約在2.19米到7.51米之間。
+               <p xml:lang="zh-Hant" source="#biblk000283-2">版門的做法詳細出現在《營造法式》（1103）與《梓人遺制》（1261）中（薛 1522，3518.18a-20a）。</p>
+               <p xml:lang="zh-Hant" source="#biblk000283-3">《營造法式》將版門分為雙扇版門和獨扇版門，雙扇版門高寬為方形或略窄，門高約在2.19米到7.51米之間。
                   《梓人遺制》補充了獨扇版門的高度下限，在1.57米至2.19米之間。《梓人遺制》相較於《營造法式》，增加了桯，立楣，腦楣構件以及額寬。《營造法式》中版門的做法適用於兩柱之間，《梓人遺製》則更適用於使用厚墻的場合。有學者
                   （俞莉娜，2023）認為在法式成書之前，兩種版門皆已經存在於地面建築。</p>
-               <p xml:lang="zh-Hant" source="#biblk000283-13">繪畫中的版門主要出現在建築院落的大門和城門，也有存在於建築單體大門的情況。在墓葬等的探討中，學者普遍會把無飾平整門扇配有地栿，立頰，額和門簪的形式定義為版門。目前，該形式可以追溯到漢代畫像石。
+               <p xml:lang="zh-Hant" source="#biblk000283-4">繪畫中的版門主要出現在建築院落的大門和城門，也有存在於建築單體大門的情況。在墓葬等的探討中，學者普遍會把無飾平整門扇配有地栿，立頰，額和門簪的形式定義為版門。目前，該形式可以追溯到漢代畫像石。
                   （屠 1990, 31-36.）</p>
-               <p xml:lang="zh-Hant" source="#biblk000283-14">梁思成，竹島卓一、潘谷西都對《營造法式》的版門做過復原研究（梁 2001, 166; 潘和何 2005, 111；竹岛 1971, 175）。
+               <p xml:lang="zh-Hant" source="#biblk000283-5">梁思成，竹島卓一、潘谷西都對《營造法式》的版門做過復原研究（梁 2001, 166; 潘和何 2005, 111；竹岛 1971, 175）。
                   梁思成與潘穀西繪圖與《營造法式》基本符合。目前存在模糊性的，一是副肘版使用範圍，
                   竹島卓一和《梓人遺制》傾向于門高一丈二尺以上方可使用，梁思成與潘穀西的復原在一丈高版門中已使用副肘版。由於版門門扇以木板拼合而成，當尺寸較大時，門扇自重變大而易於變形，故需增加副肘板以維持門扇形狀。二是搕鎖柱尺寸位置，
                   梁和潘的復原中搕鎖柱立於立頰後，寬度大於肘版及閘關徑之和。劉妍對城門版門的復原將搕鎖柱立於門扇後（劉妍 2012，112），尺寸上更符合法式記載，不過如此則意味著搕鎖柱是隨門之開關安裝、拆卸的。</p>
@@ -115,45 +115,17 @@
                <ptr target="https://architecturasinica.org/bibl/8RRW96CV"/> 
             </bibl>
             <bibl xml:id="biblk000283-2">
-               <ptr target="https://architecturasinica.org/bibl/2ZUFYQ46"/>
-            </bibl>
-            <bibl xml:id="biblk000283-3">
                <ptr target="https://architecturasinica.org/bibl/XJKJEVHZ"/>
                <citedRange unit="pp">3518.18a-20a</citedRange>
             </bibl>
-            <bibl xml:id="biblk000283-4">
-               <ptr target="https://architecturasinica.org/bibl/IBU3ZPGZ"/>
-               <citedRange unit="pp">270-271</citedRange>
-            </bibl>
-            <bibl xml:id="biblk000283-5">
-               <ptr target="https://architecturasinica.org/bibl/R6JI67GM"/>
-            </bibl>
-            <bibl xml:id="biblk000283-6">
-               <ptr target="https://architecturasinica.org/bibl/CEEFVYZI"/>
-            </bibl>
-            <bibl xml:id="biblk000283-7">
-               <ptr target="https://architecturasinica.org/bibl/4KP9B6U2"/>
-            </bibl>
-            <bibl xml:id="biblk000283-8">
+            <bibl xml:id="biblk000283-3">
                <ptr target="https://architecturasinica.org/bibl/SFNB9RJK"/>
             </bibl>
-            <bibl xml:id="biblk000283-9">
-               <ptr target="https://architecturasinica.org/bibl/IKUSHVKZ"/>
-            </bibl>
-            <bibl xml:id="biblk000283-10">
-               <ptr target="https://architecturasinica.org/bibl/LYSELFDD"/>
-            </bibl>
-            <bibl xml:id="biblk000283-11">
-               <ptr target="https://architecturasinica.org/bibl/RRAVV94A"/>
-            </bibl>
-            <bibl xml:id="biblk000283-12">
-               <ptr target="https://architecturasinica.org/bibl/848SJSVS"/>
-            </bibl>
-            <bibl xml:id="biblk000283-13">
+            <bibl xml:id="biblk000283-4">
                <ptr target="https://architecturasinica.org/bibl/W6PTQB6E"/>     
                <citedRange unit="pp">31-36</citedRange>
             </bibl>
-            <listBibl xml:id="biblk000283-14">
+            <listBibl xml:id="biblk000283-5">
               <bibl>
                   <ptr target="https://architecturasinica.org/bibl/WT5PUZBP"/>
                   <citedRange unit="pp">111</citedRange>
@@ -165,11 +137,6 @@
                <bibl>
                   <ptr target="https://architecturasinica.org/bibl/IBU3ZPGZ"/>
                   <citedRange unit="pp">166</citedRange>
-               </bibl>
-            </listBibl>
-            <listBibl xml:id="biblk000283-15">
-               <bibl>
-                  <ptr target="https://architecturasinica.org/bibl/67A76PN3"/>
                </bibl>
             </listBibl>
                <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000283" passive="openings (doors and windows)"/>
