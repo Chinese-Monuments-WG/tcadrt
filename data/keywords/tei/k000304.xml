@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../taxonomy.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://syriaca.org/documentation/syriaca-tei-main.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <teiHeader>
         <fileDesc>
@@ -86,25 +85,14 @@
                 <term xml:id="term-k000304-4" xml:lang="zh-latn-pinyin">dàmùzuò</term>
                 <term xml:id="term-k000304-5" xml:lang="zh-latn-wadegile">ta-mu-tso</term>
                 <term xml:id="term-k000304-6" xml:lang="en" type="literal_translation" source="#biblk000103-1">structural carpentry', woodwork (lit.)</term>
-                <term xml:id="term-k000304-7" xml:lang="en" source="#biblk000304-2"></term>
-                <term xml:id="term-k000304-8" xml:lang="en" source="#biblk000304-3"></term>
                 <note type="Note">
                     <p xml:lang="en">
                         Under construction
                     </p>
                 </note>
-                <note type="related concepts">
-                </note>
                 <bibl xml:id="biblk000304-1">
                     <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
                     <citedRange unit="pp">28</citedRange>
-                </bibl>
-                <bibl xml:id="biblk000304-2">
-                    <ptr target="https://architecturasinica.org/bibl/688PPYQV"/>
-                    <citedRange unit="pp"></citedRange>
-                </bibl>
-                <bibl xml:id="biblkk000304-3">
-                    <ptr target="https://architecturasinica.org/bibl/3A79ZQR4"/>
                 </bibl>
             </entryFree>
         </body>
