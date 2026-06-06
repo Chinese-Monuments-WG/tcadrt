@@ -87,8 +87,6 @@
                 <term xml:id="term-k000326-4" xml:lang="zh-latn-pinyin">wàngǒng</term>
                 <term xml:id="term-k000326-5" xml:lang="zh-latn-wadegile">wan-kung</term>
                 <term xml:id="term-k000326-6" xml:lang="en" source="#biblk000326-1">long bracket</term>
-                <term xml:id="term-k000326-7" xml:lang="en" source="#biblk000326-2"></term>
-                <term xml:id="term-k000326-8" xml:lang="en" source="#biblk000326-3"></term>
                 <note type="Note">
                     <p xml:lang="en">
                         Under construction
@@ -97,13 +95,6 @@
                 <bibl xml:id="biblk000326-1">
                     <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
                     <citedRange unit="pp">57</citedRange>
-                </bibl>
-                <bibl xml:id="biblk000326-2">
-                    <ptr target="https://architecturasinica.org/bibl/G3VB5QMD"/>
-                    <citedRange unit="pp"></citedRange>
-                </bibl>
-                <bibl xml:id="biblk000326-3">
-                    <ptr target="https://architecturasinica.org/bibl/3A79ZQR4"/>
                 </bibl>
             </entryFree>
         </body>
