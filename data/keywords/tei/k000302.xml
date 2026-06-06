@@ -7,20 +7,20 @@
         <fileDesc>
             <titleStmt>
                 <title level="a" xml:lang="zh-latn-pinyin">
-                    <foreign xml:lang="zh-Hant">大木作</foreign> damuzuo
+                    <foreign xml:lang="zh-Hant">直櫺窗</foreign> zhilingchuang
                 </title>
                 <title level="m">Architectura Sinica</title>
                 <principal xml:id="TGM">Tracy Miller</principal>
                 <editor role="general" ref="#TGM">Tracy Miller</editor>
                 <editor role="associate" xml:id="ZJ">ZHUGE Jing 諸葛净</editor>
-                <editor role="content-author" ref="#ZJ">Zhuge Jing 諸葛淨 </editor>
+                <editor role="content-author" ref="#ZJ">Bai Ying, 白颖 Xu Xuli 徐煦黎</editor>
                 <respStmt>
                     <resp>Website coordination by</resp>
                     <name type="person" xml:id="YFB">Yuh-Fen Benda</name>
                 </respStmt>
                 <respStmt>
                     <resp>Initial research and revision by</resp>
-                    <name type="person" ref="#ZJ">Zhuge Jing 諸葛淨 </name>
+                    <name type="person" ref="#ZJ">Bai Ying 白颖, Xu Xuli 徐煦黎</name>
                 </respStmt>
                 <respStmt>
                     <resp>Peer review by</resp>
@@ -52,7 +52,7 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Architectura Sinica</authority>
-                <idno type="URI">https://architecturasinica.org/keyword/k000304/tei</idno>
+                <idno type="URI">https://architecturasinica.org/keyword/k000302/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -80,23 +80,27 @@
     </teiHeader>
     <text>
         <body>
-            <entryFree xml:id="k000304" type="architectural feature">
-                <term xml:id="term-k000304-1" xml:lang="zh-latn-pinyin-nt">damuzuo</term>
-                <term xml:id="term-k000304-2" xml:lang="zh-Hant">大木作</term>
-                <term xml:id="term-k000304-3" xml:lang="zh-Hans">大木作</term>
-                <term xml:id="term-k000304-4" xml:lang="zh-latn-pinyin">dàmùzuò</term>
-                <term xml:id="term-k000304-5" xml:lang="zh-latn-wadegile">ta-mu-tso</term>
-                <term xml:id="term-k000304-6" xml:lang="en" type="literal_translation" source="#biblk000303-1">structural carpentry', woodwork (lit.)</term>
+            <entryFree xml:id="k000302" type="architectural feature">
+                <term xml:id="term-k000302-1" xml:lang="zh-latn-pinyin-nt"  type="ATTCAT preferred">zhilingchuang</term>
+                <term xml:id="term-k000302-2" xml:lang="zh-Hant">直櫺窗</term>
+                <term xml:id="term-k000302-3" xml:lang="zh-Hans">直櫺窗</term>
+                <term xml:id="term-k000302-4" xml:lang="zh-latn-pinyin">zhílíngchuāng</term>
+                <term xml:id="term-k000302-5" xml:lang="zh-latn-wadegile">chih-ling-ch'uang</term>
+                <term xml:id="term-k000302-6" xml:lang="en" source="#biblk000302-1">grill window</term>
                 <note type="Note">
                     <p xml:lang="en">
                         Under construction
                     </p>
                 </note>
-                <bibl xml:id="biblk000304-1">
-                    <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
-                    <citedRange unit="pp">28</citedRange>
+                <note type="related concepts">
+                </note>
+                <bibl xml:id="biblk000302-1">
+                    <ptr target="https://architecturasinica.org/bibl/G3VB5QMD"/>
+                    <citedRange unit="pp">372</citedRange>
                 </bibl>
             </entryFree>
         </body>
     </text>
 </TEI>
+
+
