@@ -90,11 +90,11 @@
                         Under construction 
                     </p>
                 </note>
-            </entryFree>
                 <bibl xml:id="biblk000334-1">                
                     <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
                     <citedRange unit="pp">27</citedRange>
                 </bibl>
+            </entryFree>
         </body>
     </text>
 </TEI>
