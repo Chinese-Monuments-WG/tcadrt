@@ -77,7 +77,8 @@
         </revisionDesc>
     </teiHeader>
     <text>
-            <body xml:id="k000334" type="architectural feature">
+        <body>
+            <entryFree xml:id="k000334" type="architectural feature">
                 <term xml:id="term-k000334-1" xml:lang="zh-latn-pinyin-nt"  type="ATTCAT preferred">cujiaoliang</term>
                 <term xml:id="term-k000334-2" xml:lang="zh-Hant">簇角梁</term>
                 <term xml:id="term-k000334-3" xml:lang="zh-Hans">簇角梁</term>
@@ -89,11 +90,12 @@
                         Under construction 
                     </p>
                 </note>
+            </entryFree>
                 <bibl xml:id="biblk000334-1">                
                     <ptr target="https://architecturasinica.org/bibl/MIIQ4VBC"/>
                     <citedRange unit="pp">27</citedRange>
                 </bibl>
-            </body>
+        </body>
     </text>
 </TEI>
 
