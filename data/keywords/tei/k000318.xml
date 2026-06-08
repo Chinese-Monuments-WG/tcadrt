@@ -83,7 +83,7 @@
                 <term xml:id="term-k000318-7" xml:lang="en" source="#biblk000318-2">gable-eaves board, bargeboard</term>
                 <note type="Note">
                     <p xml:lang="en">
-                        Under construction
+                        Under construction test
                     </p>
                 </note>
                 <bibl xml:id="biblk000318-1">
@@ -93,9 +93,6 @@
                 <bibl xml:id="biblk000318-2">
                     <ptr target="https://architecturasinica.org/bibl/G3VB5QMD"/>
                     <citedRange unit="pp">349</citedRange>
-                </bibl>
-                <bibl xml:id="biblk000318-3">
-                    <ptr target="https://architecturasinica.org/bibl/3A79ZQR4"/>
                 </bibl>
             </entryFree>
         </body>
