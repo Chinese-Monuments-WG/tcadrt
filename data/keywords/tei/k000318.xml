@@ -71,8 +71,8 @@
     </teiHeader>
     <text>
         <body>
-            <entryFree xml:id="k000318" type="architectural feature">
-                <term xml:id="term-k000318-1" xml:lang="zh-latn-pinyin-nt"  type="ATTCAT preferred">bofengban</term>
+            <entryFree xml:id="k000318">
+                <term xml:id="term-k000318-1" xml:lang="zh-latn-pinyin-nt">bofengban</term>
                 <term xml:id="term-k000318-2" xml:lang="zh-Hant">搏風版</term>
                 <term xml:id="term-k000318-3" xml:lang="zh-Hans">搏风版</term>
                 <term xml:id="term-k000318-4" xml:lang="zh-latn-pinyin">bófēngbǎn</term>
@@ -81,7 +81,7 @@
                 <term xml:id="term-k000318-7" xml:lang="en" source="#biblk000318-2">gable-eaves board, bargeboard</term>
                 <note type="Note">
                     <p xml:lang="en">
-                        Under construction test
+                        Under construction
                     </p>
                 </note>
                 <bibl xml:id="biblk000318-1">
