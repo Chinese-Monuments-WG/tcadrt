@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://syriaca.org/documentation/syriaca-tei-main.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:schema="http://schema.org/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/archSinica/odd4archSinicaTaxonomy/out/odd4ArchSinicaTaxonomy.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/draft-data/master/data/archSinica/odd4archSinicaTaxonomy/out/odd4ArchSinicaTaxonomy.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns = "http://www.tei-c.org/ns/1.0" xmlns:xd = "http://www.oxygenxml.com/ns/doc/xsl" xmlns:tei = "http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -77,6 +78,7 @@
                 <term xml:id="term-k000334-4" xml:lang="zh-latn-pinyin">cùjiǎoliáng</term>
                 <term xml:id="term-k000334-5" xml:lang="zh-latn-wadegile">ts'u-chiao-liang</term>
                 <term xml:id="term-k000334-6" xml:lang="en" source="#biblk000334-1">piling-up-hip-rafter-roof</term>
+                <idno type="URI">https://architecturasinica.org/keyword/k000334</idno>
                 <note type="Note">
                     <p xml:lang="en">
                         Under construction 
