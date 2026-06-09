@@ -155,7 +155,7 @@
                     </bibl>
                 </listBibl>
                 <listRelation>
-                    <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000286" passive="bracketing"/>
+                    <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000999" passive="bracketing"/>
                 </listRelation>
             </entryFree>
         </body>
