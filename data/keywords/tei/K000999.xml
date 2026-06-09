@@ -1,20 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://syriaca.org/documentation/syriaca-tei-main.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:schema="http://schema.org/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml-model href="../taxonomy.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Xinzhu Langyin Hall <foreign xml:lang="zh-Hant">心珠朗瑩殿</foreign>
-                </title>
+                <title level="a" xml:lang="zh-latn-pinyin">
+                    <foreign xml:lang="zh-Hant">替木木</foreign> test page</title>
                 <title level="m">Architectura Sinica</title>
-                <principal xml:id="JAH">Joseph Hanauer</principal>
-                <editor role="content-author" xml:id="JAH">Joseph Hanauer</editor>
+                <principal xml:id="TGM">Tracy Miller</principal>
                 <editor role="general" ref="#TGM">Tracy Miller</editor>
+                <editor role="associate" xml:id="ZJ">ZHUGE Jing 諸葛净</editor>
+                <editor role="content-author" xml:id="LZZ">LI Zizi 李孜孜</editor>
+                <editor role="content-author" xml:id="BY">BAI Ying  白穎</editor>
                 <respStmt>
-                    <resp>Initial Research: </resp>
-                    <name type="person" ref="#JAH">Joseph Hanauer</name>
-                    <resp>Editing and proof correction: </resp>
+                    <resp>Website coordination by</resp>
+                    <name type="person" xml:id=""></name>
+                </respStmt>
+                <respStmt>
+                    <resp>Preliminary research and revision: </resp>
+                    <name type="person" ref="#LZZ">LI Zizi 李孜孜</name>
+                    <name type="person" ref="#BY">BAI Ying  白穎</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Peer review by</resp>
+                    <name type="team">ATTCAT 2023-2024</name>
+                </respStmt>
+                <respStmt>
+                    <resp>English proofreading: </resp>
+                    <name type="person" xml:id="AC">Aurelia Campbell</name>
                     <name type="person" ref="#TGM">Tracy Miller</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Chinese proofreading: </resp>
+                    <name type="person" ref="#ZJ">ZHUGE Jing 諸葛净</name>
+                    <name type="person" xml:id="ZLL">ZUO Lala 左拉拉</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Data entry: </resp>
+                    <name type="person" xml:id="FRC">FENG Ruoci 馮若慈</name>
                 </respStmt>
             </titleStmt>
             <editionStmt>
@@ -22,13 +47,13 @@
             </editionStmt>
             <publicationStmt>
                 <authority>Architectura Sinica</authority>
-                <idno type="URI">https://architecturasinica.org/place/000299b/tei</idno>
+                <idno type="URI">https://architecturasinica.org/keyword/k000999/tei</idno>
                 <availability>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2024-12-01-04:00</date>
+                <date>2025-05-22</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -38,84 +63,102 @@
             <langUsage>
                 <language ident="en">English</language>
                 <language ident="zh-latn-pinyin">Pinyin</language>
+                <language ident="zh-latn-pinyin-nt">Pinyin without tones</language>
+                <language ident="zh-latn-wadegile">Wade-Giles</language>
                 <language ident="zh-Hant">Traditional Chinese</language>
                 <language ident="zh-Hans">Simplified Chinese</language>
-                <language ident="zh-latn-wadegile">Wade-Giles</language>
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change n="1.0" who="#TGM" when="2018-03-21-04:00">CREATED: place record</change>
-            <change n="1.1" who="#TGM" when="2024-10-18-04:00">added images and geolocation</change>
-            <change n="1.2" who="#JAH" when="2024-11-10-04:00">added data</change>
+            <change n="1.0" who="FRC" when="2025-05-22">CREATED: record</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <listPlace>
-                <place xml:id="place-000299b" type="schema:LandmarksOrHistoricalBuildings">
-                    <placeName xml:id="name000299b" xml:lang="en">Xinzhu Langyin Hall</placeName>
-                    <placeName xml:id="name000299b-1" type="building-name" xml:lang="zh-Hant">心珠朗瑩殿</placeName>
-                    <placeName xml:id="name000299b-2" type="building-name" xml:lang="zh-Hans">心珠朗瑩殿</placeName>
-                    <placeName xml:id="name000299b-3" type="building-name" xml:lang="zh-latn-pinyin">Xīn zhū lǎng yíng diàn</placeName>
-                    <placeName xml:id="name000299b-4" type="building-name" xml:lang="zh-latn-wadegile">hsin chu lang ying tien</placeName>
-                    <idno type="URI">https://architecturasinica.org/place/000299b</idno>
-                    <state type="existence" from="1473-01-01">
-                        <label>Date</label>
-                        <desc>Built during the <term ref="/keyword/k000051">Ming</term>.</desc>
-                    </state>
-                    <state type="existence" subtype="dynasty" from="1473-01-01" to="1949-01-01">
-                        <label>Dynasty</label>
-                        <desc>Founded in the <term ref="/keyword/k000051">Ming</term>, destryed during the <term ref="/keyword/k000070">Republican Period</term>.
-                        </desc>
-                    </state>
-                    <desc>
-                        <p type="site-data" source="#bibl000299b-1">
-                            The first building a visitor comes across when entering the <term ref="/place/000299">Zhenjue Monastery 真覺寺</term> is the remaining foundation of what once was the Xinzhu Langyin Hall 心珠朗瑩殿, also known as the Great Hall大殿. The structure that once stood on the foundation was destroyed during the <term ref="/keyword/k000195">Republican Period</term> leaving the <term ref="/place/000299c">Jingangbaozuo Pagoda 金刚宝座塔</term> as the last complete remaining extent building on the site. The original Xinzhu Langyin Hall was five or six zhang 丈, or between about 16.65 and 19.98 meters, in height. The hall is centered directly south of the Jingangbaozuo Pagoda. 
-                        </p>
-                        <p type="site-data">
-                            The remains of the Xinzhu Langyin Hall’s foundation are made of cut stone and are elevated on a platform. The foundation is rectangular in layout with the southern facing foundation having openings adjacent to the southeast and southwestern corners. The stone foundation is extensively carved and resembles a highly stylized wall. The top third and bottom third of the wall protrude slightly from the middle third. The top of the protruding bottom third of the wall has a lotus petal motif that continues along the entire foundation. Each corner of the middle section contains a stylized pillar interspaced with inscribed Buddhist iconography. The bottom of the top protruding third contains stone bracketing that resembles lotus petals. The top eight of the foundation protrudes slightly more than the rest and is inscribed with Sanskrit character. The style of the Xinzhu Langyin Hall’s foundation is comparable to the style of the bottom levels of the foundation of <term ref="/place/000299c">Jingangbaozuo Pagoda</term>.                            
-                        </p>
-                    </desc> 
-                    <location type="gps" subtype="preferred">
-                        <geo>39.943316 116.324222</geo>
-                    </location>
-                    <location>location determined using ArcGIS 1 December 2024</location>
-                    <trait type="type" sub-type="building type">
-                        <label>Type</label>
-                        <desc xml:lang="en">hall</desc>
-                        <desc xml:lang="zh-latn-pinyin">Dian</desc>
-                        <desc xml:lang="zh-Hant">殿</desc>
-                        <desc xml:lang="zh-Hans">殿</desc>
-                    </trait>
-                    <listBibl xml:id="bibl000299b-1">
-                        <bibl>
-                            <ptr target="https://architecturasinica.org/bibl/5EHNDT6D"/>
-                            <citedRange unit="pp">vol. 6, 19a</citedRange>
-                        </bibl>
-                        <bibl>
-                            <ptr target="https://architecturasinica.org/bibl/WKJQ59MQ"/>
-                            <citedRange unit="pp">256</citedRange>
-                        </bibl>
-                        <bibl>
-                            <ptr target="https://architecturasinica.org/bibl/MHC9Y5KR"/>
-                            <citedRange unit="pp">vol. 4, 3b</citedRange>
-                        </bibl>
-                    </listBibl> 
-                </place>
+            <entryFree xml:id="k000999" type="architectural feature">
+                <term xml:id="term-k000999-1" xml:lang="zh-latn-pinyin-nt">timu</term>
+                <term xml:id="term-k000999-2" xml:lang="zh-Hant">替木</term>
+                <term xml:id="term-k000999-3" xml:lang="zh-Hans">替木</term>
+                <term xml:id="term-k000999-4" xml:lang="zh-latn-pinyin">tìmù</term>
+                <term xml:id="term-k000999-5" xml:lang="zh-latn-wadegile">t`i-mu</term>
+                <term xml:id="term-k000999-6" xml:lang="en" source="#biblk000999-1" type="literal_translation">stand-in timber (lit.)</term>
+                <idno type="URI">https://architecturasinica.org/keyword/k000286</idno>
+                <note type="Note">
+                    <p>under construction</p>
+                    <p xml:lang="en">Meaning, literally, “shelf timber” or “stand-in timber,” (Kroll) the term timu 替木 is predominantly found in architectural literature from the <term ref="/keyword/k000074">Song</term>, <term ref="/keyword/k000051">Ming</term>, and <term ref="/keyword/k000070">Qing</term> 
+                        dynasties. The timu stabilizes the structure by increasing the surface area between the upper and lower components. In the connection between the circular purlins (tuan 槫 or lin 檁) 
+                        and dou (bearing block), it facilitates the transition between circular and rectangular elements, thereby improving the stability of the block's support for the circular purlin.  
+                        According to the Qing dynasty Gongcheng zuofa, the timu is located above the pillar to support the purlin. According to Ma Bingjian’s research on late Qing architecture, elements 
+                        joined into the pillar top to protect the half-tenon joints between the beams and pillars can also be called timu. In this case the timu functions similarly to the queti (<term ref="/keyword/k000287">雀替 sparrow brace</term>), 
+                        but it has a different shape.</p>
+                    <p xml:lang="en" source="#biblk000999-2">The earliest mention of timu appears in Guo Ruoxu's “Experiences in Painting” (Tuhua jianwenzhi 圖畫見聞志) from the Song dynasty. The Song dynasty architectural manual 
+                        Yingzao fashi 营造法式 describes it as a short wooden component positioned between the <term ref="/keyword/k000019">dougong 斗栱</term> and a circular purlin (tuan 槫). The timu typically features rounded ends (juansha 卷殺) 
+                        measuring ten fen in thickness and twelve fen in height, with its length extending slightly beyond the underlying dougong. Yingzao fashi refers to timu alternatively as fu 複 or 
+                        fudong 複棟 (Guo 2001, 2; Li 2009, vol: 4, 5).</p>
+                    <p xml:lang="en" source="#biblk000999-3">Contemporary scholars suggest that the timu may have evolved from the ji 枅, a horizontal wooden element placed atop columns during the <term ref="/keyword/k000030">Han</term> dynasty. This architectural 
+                        feature is believed to have gradually developed into various components including the <term ref="/keyword/k000117">fang 枋 (squared beam)</term>, dougong 斗拱 (bracket set), and queti 雀替 (sparrow brace) 
+                        (Fu 1981, 54; Li 2005, 55; Tang 2016, 131; Ma 1991, 237; Li 2005, 218). </p>
+                    <p xml:lang="zh-Hant" source="#biblk000999-4">替木作為建築術語，最早見於《圖畫見聞誌》（郭 2001, 2），主要出現於宋、明、清的文獻。宋、清文獻中的替木所指並不完全相同。</p>
+                    <p xml:lang="zh-Hant" source="#biblk000999-5">根據《營造法式》，替木為施於枓栱上，，圓槫下的短木構件（李 2009，vol: 4, 5）。替木通過加大上下構件間的接觸面，起到維護結構穩定性的作用。其在圓形的槫与枓的连接中上下过渡，加強了枓對槫的支撐的
+                        穩定性。清官式营造文献（王等 2000，379；清工部 1734，26.5b,27.4b,48.4b,61.4a）中，小式建築四檁大木（清工部 1734，27.4b）和五檁大木（清工部 1734，26.5b）做法里，金檁或脊檩下不使用枋與墊板時，柱頭上或梁上置
+                        替木承托檁条，有助於維持槫或檁之間的連接。根據馬炳堅的研究，清代建築中，中柱、山柱上梁柱交接时，梁下穿过柱身的短木構件也被称为替木。(馬炳堅 1991, 194)，此種構件保護了梁柱間的半榫節點，作用類似雀替，但形狀不同。</p>
+                    <p xml:lang="zh-Hant" source="#biblk000999-6">近代學者通過整理文獻與實物，對“替木”展開討論。認為其可能來源於漢代的枅（傅熹年 1981, 54）或柱頂橫木（李允鉌 2005：55），後發展演化為枋（湯崇平 2016，131）、枓拱(馬炳堅 1991,237)、雀替
+                        （李允鉌，2005：218）。</p>
+                </note>
+                <bibl xml:id="biblk000999-1">
+                    <ptr target="https://architecturasinica.org/bibl/3A79ZQR4"/>
+                </bibl>
+                <listBibl xml:id="biblk000999-2">
+                    <bibl>
+                        <ptr target="https://architecturasinica.org/bibl/PNYCVFDQ"/>
+                        <citedRange unit="pp">2</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="https://architecturasinica.org/bibl/H4FNULL9"/>
+                        <citedRange unit="pp">vol: 4, 5</citedRange>
+                    </bibl>
+                </listBibl>
+                <listBibl xml:id="biblk000999-3">
+                    <bibl>
+                        <ptr target="https://architecturasinica.org/bibl/YCPMIASV"/>
+                        <citedRange unit="pp">131</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="https://architecturasinica.org/bibl/9CCYYQ2F"/>
+                        <citedRange unit="pp">237</citedRange>
+                    </bibl>
+                </listBibl>
+                <listBibl xml:id="biblk000999-4">
+                    <bibl>
+                        <ptr target="https://architecturasinica.org/bibl/PNYCVFDQ"/>
+                        <citedRange unit="pp">2</citedRange>
+                    </bibl>
+                </listBibl>
+                <listBibl xml:id="biblk000999-5">
+                    <bibl>
+                        <ptr target="https://architecturasinica.org/bibl/H4FNULL9"/>
+                        <citedRange unit="pp">vol: 4, 5</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="https://architecturasinica.org/bibl/9CCYYQ2F"/>
+                        <citedRange unit="pp">194</citedRange>
+                    </bibl>
+                </listBibl>
+                <listBibl xml:id="biblk000999-6">
+                    <bibl>
+                        <ptr target="https://architecturasinica.org/bibl/YCPMIASV"/>
+                        <citedRange unit="pp">131</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="https://architecturasinica.org/bibl/9CCYYQ2F"/>
+                        <citedRange unit="pp">237</citedRange>
+                    </bibl>
+                </listBibl>
                 <listRelation>
-                    <relation active="https://architecturasinica.org/place/000299b" ref="dcterms:temporal" passive="https://architecturasinica.org/keyword/k000051" ana="dynasty"/>
-                    <!--  Ming  -->
-                    <relation active="https://architecturasinica.org/place/000299b" ref="dcterms:temporal" passive="https://architecturasinica.org/keyword/k000070" ana="dynasty"/>
-                    <!--  Qing  -->
-                    <relation active="https://architecturasinica.org/place/000299b" ref="dcterms:temporal" passive="https://architecturasinica.org/keyword/k000070" ana="dynasty"/>
-                    <!-- Republican Period -->
-                    <relation ref="foaf:depicts" active="https://live.staticflickr.com/65535/54157858750_f143cf0a4e_b.jpg" passive="https://architecturasinica.org/place/000299b" ana="featured"/>
-                    <relation ref="foaf:depicts" active="https://live.staticflickr.com/65535/54156545627_bc0d6a1b67_b.jpg" passive="https://architecturasinica.org/place/000299b" ana="featured"/>
-                    <relation ana="contained" active="https://architecturasinica.org/place/000299b" ref="schema:containedInPlace" passive="https://architecturasinica.org/place/000299"/> 
-                    <relation active="https://architecturasinica.org/place/000299b" passive="https://architecturasinica.org/keyword/k000062" ref="dcterms:subject" ana="architectural-feature"/>  
+                    <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000286" passive="bracketing"/>
                 </listRelation>
-            </listPlace>
-        </body> 
+            </entryFree>
+        </body>
     </text>
 </TEI>
 
