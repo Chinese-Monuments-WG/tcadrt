@@ -96,16 +96,6 @@
                     <citedRange unit="pp">349</citedRange>
                 </bibl>
                 </listBibl>
-                <listRelation>
-                    <listRelation>
-                        <relation ref="skos:broadMatch" active="https://architecturasinica.org/keyword/k000186" passive="roof types"/>
-                        <!--  <relation ref="foaf:depicts" active="https://live.staticflickr.com/65535/47814614181_99d129a44c_z.jpg" passive="https://architecturasinica.org/keyword/k000018" rendition="featured"> </relation>
-                  <relation ref="foaf:depicts" active="https://live.staticflickr.com/65535/40848169453_a75b6c1b06_z.jpg"
-                     passive="https://architecturasinica.org/keyword/k000018" rendition="featured"> </relation>  -->
-                        <!--   <relation ref="https://architecturasinica.org/place/000xxx"
-                     source="name_of_numbered_example_here"/> where there is an xxx put the number of the example  -->
-                    </listRelation>
-                </listRelation>
             </entryFree>
         </body>
     </text>
